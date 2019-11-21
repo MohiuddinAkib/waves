@@ -1,0 +1,9 @@
+{
+  "app": {
+    "name": "waves",
+    "tokens": {
+      "accessTokenExpirationTime": "15 * 60",
+      "refreshTokenExpirationTime": "7d"
+    }
+  }
+}

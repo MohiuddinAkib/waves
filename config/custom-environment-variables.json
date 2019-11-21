@@ -1,0 +1,11 @@
+{
+  "app": {
+    "port": "PORT",
+    "jwt-secret-key": "JWT_SECRET_KEY"
+  },
+  "db": {
+    "mongo": {
+      "uri": "MONGO_URI"
+    }
+  }
+}
